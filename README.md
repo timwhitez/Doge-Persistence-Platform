@@ -1,5 +1,9 @@
-# Doge-Persistence-Platform
+- 本人github的项目可能目前主要分为两大类，🐸Frog系列为自动化扫描方向，🐶Doge系列为免杀及内网渗透方向
+
+# 🐶Doge-Persistence-Platform
+
 本项目短期内不开源
+
 ## Intro
 
 Doge-Persistence-Platform
@@ -162,5 +166,51 @@ Input:1
 
 7. 修改心跳时间(退出)    | Set Sleep (shutdown)                | sleep
 
-Exploit(type 0 back):
+Exploit(type 0 back): 2
+
+HostName: DESKTOP-DogeTest
+IP: 8.8.8.8:192.168.1.1
+
+
+输入需要下发的命令 | Input the command
+
+Input(input 0 back): whoami
+
+命令下发成功! | Success!
+Press any key to continue...
+
+
+1. 查看主机info          | Show Target Info                    | info
+
+2. 命令执行              | Set CMD                             | cmd
+
+3. 待执行命令或url       | List CMD or url                     | list
+
+4. 下载url               | Set Download & exec Url             | download
+
+5. 命令执行结果          | Show All CMD Results                | results
+
+6. 删除历史数据          | Delete                              | del
+
+7. 修改心跳时间(退出)    | Set Sleep (shutdown)                | sleep
+
+Exploit(type 0 back): 1
+
+HostName: DESKTOP-DogeTest
+IP: 8.8.8.8:192.168.1.1
+OnlineType: heartbeat
+Last connection: 2021/02/08,17:01:29
+
+Press any key to continue...
+Username: DESKTOP-DogeTest\sandbox
+Hostname: DESKTOP-DogeTest
+InternalIP: 192.168.1.1
+
+ProcessList:
+xxx.exe, yyy.exe, qqq.exe
+
+systeminfo:
+xxxxxxx
+
+Press any key to continue...
 ```
