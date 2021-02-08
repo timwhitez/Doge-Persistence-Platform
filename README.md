@@ -113,8 +113,9 @@ client.exe beacon
 ./console.exe
 ```
 ## 运行截图
-
-
+![1](https://raw.githubusercontent.com/timwhitez/Doge-Persistence-Platform/main/pic/1.png)
+![2](https://raw.githubusercontent.com/timwhitez/Doge-Persistence-Platform/main/pic/2.png)
+![3](https://raw.githubusercontent.com/timwhitez/Doge-Persistence-Platform/main/pic/3.png)
 ## Features
 ```
 PS D:\> .\console.exe
