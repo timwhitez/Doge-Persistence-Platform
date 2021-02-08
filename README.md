@@ -49,7 +49,7 @@ heartbeat_raw为初始心跳时间可自定义
 
 client:
 ```
-将server端_url()函数内的url替换为启动url，不带最后一个/
+将connUrl替换为server端的url，不带最后一个/
 例如：http://100.100.100.100:9000
 
 将var init_key替换为你server中自定义的key
