@@ -4,6 +4,8 @@
 
 本项目短期内不开源
 
+等我啥时候把golang的server写出来应该就能放编译好的出来了(也许)
+
 ## Intro
 
 Doge-Persistence-Platform
