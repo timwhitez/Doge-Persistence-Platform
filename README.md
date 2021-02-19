@@ -1,4 +1,7 @@
-- 本人github的项目可能目前主要分为两大类，🐸Frog系列为自动化扫描方向，🐶Doge系列为免杀及内网渗透方向
+
+- 🐸Frog For Automatic Scan
+
+- 🐶Doge For Defense Evasion&Offensive Security
 
 # 🐶Doge-Persistence-Platform
 
